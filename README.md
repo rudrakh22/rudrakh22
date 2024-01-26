@@ -1,4 +1,4 @@
-![logo]([[https://github.com/rudrakh22/rudrakh22/blob/main/Navy%20Blue%20Futuristic%20Virtual%20Technology%20Banner.png](https://github.com/rudrakh22/rudrakh22/blob/main/RUDRAKSH%20GUPTA.png)](https://github.com/rudrakh22/rudrakh22/blob/main/RUDRAKSH%20GUPTA.png))
+![logo](https://github.com/rudrakh22/rudrakh22/blob/main/RUDRAKSH%20GUPTA.png)
 <h1 align="center">Hi 👋, I'm Rudraksh Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
